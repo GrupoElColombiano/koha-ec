@@ -1,4 +1,4 @@
-# Instalación de Koha LMS
+# Instalación de Koha LMS en una maquina con sistema operativo Ubuntu
 
 Sigue los siguientes pasos para instalar Koha LMS:
 
